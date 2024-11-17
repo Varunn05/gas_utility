@@ -87,10 +87,10 @@ A Django-based customer service portal for gas utility companies that streamline
 
 ## 📁 Project Structure
 
-
+```
 gas_utility_service/
 │
-├── manage.py
+├── manage.py 
 ├── requirements.txt
 ├── .env
 ├── README.md
@@ -105,10 +105,6 @@ gas_utility_service/
 │   ├── service_requests/  # Service request handling
 │   └── customer_support/  # Support staff features
 │
-├── static/                # Static files
-│   ├── css/
-│   ├── js/
-│   └── images/
 │
 └── templates/             # HTML templates
     ├── base.html
@@ -116,7 +112,7 @@ gas_utility_service/
     ├── service_requests/
     └── customer_support/
 
-
+```
 ## 🔑 Key Features Detail
 
 ### Service Request Management
